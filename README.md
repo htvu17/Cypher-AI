@@ -38,7 +38,7 @@ Cypher-AI/
 
 - Python 3.11+
 - Node.js 18+
-- A **Google Gemini API Key** ([get one free here](https://aistudio.google.com/app/apikey))
+- A **Google Gemini API Key**
 
 ---
 
